@@ -1,6 +1,4 @@
 ---
-
-```markdown
 # Role-Based Authentication & Authorization 🚀
 
 A secure **Authentication and Authorization system** built with **Node.js, Express, MongoDB, JWT, and bcrypt**.  
